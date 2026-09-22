@@ -88,13 +88,6 @@ Automatic checking does **not** automatically delete or disable a
 repository. A temporary network outage, DNS issue, or server maintenance
 should not silently modify the user's system configuration.
 
-## Screenshot
-
-Add a screenshot of Basic Repo here once the UI is ready for release:
-
-``` markdown
-![Basic Repo](screenshots/basic-repo.png)
-```
 
 ## Requirements
 
